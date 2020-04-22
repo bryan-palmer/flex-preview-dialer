@@ -66,3 +66,5 @@ pluginsService.js
 build/
 
 public/*.csv
+
+campaigns.json
